@@ -1,1 +1,3 @@
 # Jogo-da-velha-
+Em produção...
+Jogo da velha utilizando HTML5, CSS3 e JavaScript
